@@ -1,0 +1,43 @@
+_repo: Mother-Stories_15929
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Ives, Sarah Noble
+    aliases:
+    - Ives, Noble
+    - Noble-Ives, Sarah
+    - Ives, Sara
+    birthdate: 1864
+    deathdate: 1944
+    gutenberg_agent_id: '6379'
+    url: http://www.gutenberg.org/2009/agents/6379
+covers:
+- cover_type: archival
+  image_path: 15929-h/images/frontcover.jpg
+creator:
+  author:
+    agent_name: Lindsay, Maud
+    birthdate: 1874
+    deathdate: 1941
+    gutenberg_agent_id: '6378'
+    url: http://www.gutenberg.org/2009/agents/6378
+description: ''
+gutenberg_issued: '2005-05-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15929'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s stories'
+- !lcc 'PZ'
+tableOfContents: The Wind's Work -- Mrs. Tabby Gray -- Fleet Wind and Sweet Voice
+  -- The Little Girl with the Light -- The Little Gray Pony -- How the Home was Built
+  -- The Little Traveler -- The Open Gate -- Inside the Garden Gate -- The Journey
+  -- The Giant Energy & The Fairy Skill -- The Search for a Good Child -- The Closing
+  Door -- The Minstrel's Song -- Dust Under the Rug -- The Story of Gretchen -- The
+  King's Birthday.
+title: Mother Stories
+url: http://www.gutenberg.org/ebooks/15929
